@@ -16,7 +16,7 @@
 
 DOCUMENTATION = '''
 module: codedeploy_facts
-short_description: Retreives clouddeploy details using AWS methods
+short_description: Retreives CodeDeploy details using AWS methods
 author: "Chris Zeeb(@czeeb)"
 extends_documentation_fragment: aws
 version_added: "2.1"
